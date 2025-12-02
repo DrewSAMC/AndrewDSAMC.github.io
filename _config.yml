@@ -12,23 +12,24 @@ site_theme               : "default" # Currently available options are "default"
 title                    : 
 title_separator          : "-"
 name                     : &name "Andrew Douglas"
-description              : &description "Andrew Douglas"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Graduando em Fisica do Centro Universitário Escola Técnica Everardo Passos, Brasil"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+languages                : ["en-US", "pt-BR"] # the languages your site is available in, e.g. ["en-US", "pt-BR"]
+default_lang             : "en-US" # the default language for your site, e.g. "en-US"
+repository               : "AndrewDouglasSAMC/AndrewDSAMC.github.io"                                                         # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author: 
   # Biographic information
-  avatar           : "eu.png"
+  avatar           : "profile.png"
   name             : "Andrew Douglas"
   pronouns         : # example: "she/her"  
-  bio              : "Estudante de Fisica do Centro Universitário Escola Técnica Everardo Passos"
-  location         : "Rio de Janeiro"
-  employer         : "Centro Universitário Escola Técnica Everardo Passos"
+  bio              : "Graduando em Fisica do Centro Universitário Escola Técnica Everardo Passos, Brasil"
+  location         : #"Rio de Janeiro"
+  employer         : #"Centro Universitário Escola Técnica Everardo Passos"
   uri              : # URL
   email            : "andrewdouglasdes@gmail.com" 
 
