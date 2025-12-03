@@ -24,7 +24,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author: 
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.png"
   name             : "Andrew Douglas"
   pronouns         : # example: "she/her"  
   bio              : "Graduando em Fisica do Centro Universitário Escola Técnica Everardo Passos, Brasil"
